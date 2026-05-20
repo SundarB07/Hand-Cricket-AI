@@ -17,7 +17,7 @@ hands = mp_hands.Hands(
 
 cap = cv2.VideoCapture(0)
 finger_tips = [4, 8, 12, 16, 20]
-finger_tips = [4, 8, 12, 16, 20]
+
 # ---------------- GAME STATE ----------------
 state = "START"
 
