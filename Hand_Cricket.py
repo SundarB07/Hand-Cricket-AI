@@ -14,6 +14,7 @@ hands = mp_hands.Hands(
     min_tracking_confidence=0.7
 )
 
+
 cap = cv2.VideoCapture(0)
 finger_tips = [4, 8, 12, 16, 20]
 
